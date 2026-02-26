@@ -1,4 +1,4 @@
-                            #LIST PERTEMUAN 2
+                            #LIST PERTEMUAN 2 (2/16/2024)
 
 print ("1 List adalah struktur data untuk menyimpan banyak nilai dalam satu variabel")
 #buah = ["apel", "jeruk", "mangga", 1,2,3]
