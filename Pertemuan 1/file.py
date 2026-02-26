@@ -1,1 +1,1 @@
-print("coba file")
+print("coba halo sampai jumpa file")
