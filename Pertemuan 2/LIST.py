@@ -34,7 +34,7 @@ print ("\n")
 
 
 print ("6 Menghapus Data dari List")
-buah.remove("jeruk")   
+buah.remove("jeruk")    #bisa juga pop
 print(buah)
 print ("\n")
 
